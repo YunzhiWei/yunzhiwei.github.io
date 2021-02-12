@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app/lovinlocal/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/app/lovinlocal/static/js/main.6e27556f.chunk.js",
+    "main.js.map": "/app/lovinlocal/static/js/main.6e27556f.chunk.js.map",
+    "runtime-main.js": "/app/lovinlocal/static/js/runtime-main.3cfb6933.js",
+    "runtime-main.js.map": "/app/lovinlocal/static/js/runtime-main.3cfb6933.js.map",
+    "static/js/2.e7d465fe.chunk.js": "/app/lovinlocal/static/js/2.e7d465fe.chunk.js",
+    "static/js/2.e7d465fe.chunk.js.map": "/app/lovinlocal/static/js/2.e7d465fe.chunk.js.map",
+    "static/js/3.44cfb03c.chunk.js": "/app/lovinlocal/static/js/3.44cfb03c.chunk.js",
+    "static/js/3.44cfb03c.chunk.js.map": "/app/lovinlocal/static/js/3.44cfb03c.chunk.js.map",
+    "index.html": "/app/lovinlocal/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/app/lovinlocal/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e7d465fe.chunk.js.LICENSE.txt": "/app/lovinlocal/static/js/2.e7d465fe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/app/lovinlocal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cfb6933.js",
+    "static/js/2.e7d465fe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6e27556f.chunk.js"
+  ]
+}
