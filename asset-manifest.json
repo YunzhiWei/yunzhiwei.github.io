@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.f7b30789.chunk.js",
-    "main.js.map": "/static/js/main.f7b30789.chunk.js.map",
+    "main.js": "/static/js/main.edddc6aa.chunk.js",
+    "main.js.map": "/static/js/main.edddc6aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1590ffa7.js",
     "runtime-main.js.map": "/static/js/runtime-main.1590ffa7.js.map",
-    "static/js/2.f0884b6d.chunk.js": "/static/js/2.f0884b6d.chunk.js",
-    "static/js/2.f0884b6d.chunk.js.map": "/static/js/2.f0884b6d.chunk.js.map",
+    "static/js/2.9ee482c6.chunk.js": "/static/js/2.9ee482c6.chunk.js",
+    "static/js/2.9ee482c6.chunk.js.map": "/static/js/2.9ee482c6.chunk.js.map",
     "static/js/3.44cfb03c.chunk.js": "/static/js/3.44cfb03c.chunk.js",
     "static/js/3.44cfb03c.chunk.js.map": "/static/js/3.44cfb03c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f0884b6d.chunk.js.LICENSE.txt": "/static/js/2.f0884b6d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/js/2.9ee482c6.chunk.js.LICENSE.txt": "/static/js/2.9ee482c6.chunk.js.LICENSE.txt",
+    "static/media/coffee-pass-filter-button.b33e4d28.svg": "/static/media/coffee-pass-filter-button.b33e4d28.svg",
+    "static/media/coffee-pass-heading.6447c9cd.svg": "/static/media/coffee-pass-heading.6447c9cd.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/store-type-cafe.3ce8767f.svg": "/static/media/store-type-cafe.3ce8767f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1590ffa7.js",
-    "static/js/2.f0884b6d.chunk.js",
+    "static/js/2.9ee482c6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f7b30789.chunk.js"
+    "static/js/main.edddc6aa.chunk.js"
   ]
 }
