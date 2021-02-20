@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.e39d366c.chunk.js",
-    "main.js.map": "/static/js/main.e39d366c.chunk.js.map",
+    "main.js": "/static/js/main.ee93eb6e.chunk.js",
+    "main.js.map": "/static/js/main.ee93eb6e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf4a7cce.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf4a7cce.js.map",
     "static/js/2.01281236.chunk.js": "/static/js/2.01281236.chunk.js",
@@ -14,8 +14,11 @@
     "static/js/2.01281236.chunk.js.LICENSE.txt": "/static/js/2.01281236.chunk.js.LICENSE.txt",
     "static/media/coffee-pass-filter-button.b33e4d28.svg": "/static/media/coffee-pass-filter-button.b33e4d28.svg",
     "static/media/coffee-pass-heading.6447c9cd.svg": "/static/media/coffee-pass-heading.6447c9cd.svg",
+    "static/media/congratulations.856e48e9.svg": "/static/media/congratulations.856e48e9.svg",
     "static/media/email.939f051e.svg": "/static/media/email.939f051e.svg",
+    "static/media/facebook.9d898081.svg": "/static/media/facebook.9d898081.svg",
     "static/media/in_store_deal.55fbe968.svg": "/static/media/in_store_deal.55fbe968.svg",
+    "static/media/instagram.41c57ff5.svg": "/static/media/instagram.41c57ff5.svg",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
     "static/media/map-pointer.f4b92b46.svg": "/static/media/map-pointer.f4b92b46.svg",
     "static/media/phone.1ebdf5df.svg": "/static/media/phone.1ebdf5df.svg",
@@ -27,6 +30,6 @@
     "static/js/runtime-main.cf4a7cce.js",
     "static/js/2.01281236.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e39d366c.chunk.js"
+    "static/js/main.ee93eb6e.chunk.js"
   ]
 }
