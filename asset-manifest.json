@@ -1,35 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.b2f69252.chunk.js",
-    "main.js.map": "/static/js/main.b2f69252.chunk.js.map",
+    "main.css": "/static/css/main.014e9665.chunk.css",
+    "main.js": "/static/js/main.131c18f5.chunk.js",
+    "main.js.map": "/static/js/main.131c18f5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf4a7cce.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf4a7cce.js.map",
-    "static/js/2.01281236.chunk.js": "/static/js/2.01281236.chunk.js",
-    "static/js/2.01281236.chunk.js.map": "/static/js/2.01281236.chunk.js.map",
+    "static/js/2.182a1fec.chunk.js": "/static/js/2.182a1fec.chunk.js",
+    "static/js/2.182a1fec.chunk.js.map": "/static/js/2.182a1fec.chunk.js.map",
     "static/js/3.ed7b050d.chunk.js": "/static/js/3.ed7b050d.chunk.js",
     "static/js/3.ed7b050d.chunk.js.map": "/static/js/3.ed7b050d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.01281236.chunk.js.LICENSE.txt": "/static/js/2.01281236.chunk.js.LICENSE.txt",
+    "static/css/main.014e9665.chunk.css.map": "/static/css/main.014e9665.chunk.css.map",
+    "static/js/2.182a1fec.chunk.js.LICENSE.txt": "/static/js/2.182a1fec.chunk.js.LICENSE.txt",
     "static/media/coffee-pass-filter-button.b33e4d28.svg": "/static/media/coffee-pass-filter-button.b33e4d28.svg",
     "static/media/coffee-pass-heading.6447c9cd.svg": "/static/media/coffee-pass-heading.6447c9cd.svg",
     "static/media/congratulations.856e48e9.svg": "/static/media/congratulations.856e48e9.svg",
+    "static/media/double_confirm.b1490b64.svg": "/static/media/double_confirm.b1490b64.svg",
     "static/media/email.939f051e.svg": "/static/media/email.939f051e.svg",
     "static/media/facebook.9d898081.svg": "/static/media/facebook.9d898081.svg",
-    "static/media/in_store_deal.55fbe968.svg": "/static/media/in_store_deal.55fbe968.svg",
     "static/media/instagram.41c57ff5.svg": "/static/media/instagram.41c57ff5.svg",
+    "static/media/lil_coffeepass.e8c1e224.svg": "/static/media/lil_coffeepass.e8c1e224.svg",
+    "static/media/lil_hotdeals.247033b6.svg": "/static/media/lil_hotdeals.247033b6.svg",
+    "static/media/lil_in_store_deal.d37db53a.svg": "/static/media/lil_in_store_deal.d37db53a.svg",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/map-pointer.f4b92b46.svg": "/static/media/map-pointer.f4b92b46.svg",
-    "static/media/phone.1ebdf5df.svg": "/static/media/phone.1ebdf5df.svg",
     "static/media/redeem_result.cbb32aea.svg": "/static/media/redeem_result.cbb32aea.svg",
-    "static/media/store-type-cafe.3ce8767f.svg": "/static/media/store-type-cafe.3ce8767f.svg",
-    "static/media/watch.3f2072de.svg": "/static/media/watch.3f2072de.svg"
+    "static/media/store-type-cafe.3ce8767f.svg": "/static/media/store-type-cafe.3ce8767f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf4a7cce.js",
-    "static/js/2.01281236.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b2f69252.chunk.js"
+    "static/js/2.182a1fec.chunk.js",
+    "static/css/main.014e9665.chunk.css",
+    "static/js/main.131c18f5.chunk.js"
   ]
 }
