@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.014e9665.chunk.css",
-    "main.js": "/static/js/main.bc1c7b03.chunk.js",
-    "main.js.map": "/static/js/main.bc1c7b03.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cf4a7cce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cf4a7cce.js.map",
-    "static/js/2.48cb0aab.chunk.js": "/static/js/2.48cb0aab.chunk.js",
-    "static/js/2.48cb0aab.chunk.js.map": "/static/js/2.48cb0aab.chunk.js.map",
-    "static/js/3.ed7b050d.chunk.js": "/static/js/3.ed7b050d.chunk.js",
-    "static/js/3.ed7b050d.chunk.js.map": "/static/js/3.ed7b050d.chunk.js.map",
+    "main.css": "/static/css/main.f80c00ea.chunk.css",
+    "main.js": "/static/js/main.b4295363.chunk.js",
+    "main.js.map": "/static/js/main.b4295363.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c29960bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c29960bd.js.map",
+    "static/js/2.237a3f7d.chunk.js": "/static/js/2.237a3f7d.chunk.js",
+    "static/js/2.237a3f7d.chunk.js.map": "/static/js/2.237a3f7d.chunk.js.map",
+    "static/js/3.1be0d8dd.chunk.js": "/static/js/3.1be0d8dd.chunk.js",
+    "static/js/3.1be0d8dd.chunk.js.map": "/static/js/3.1be0d8dd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.014e9665.chunk.css.map": "/static/css/main.014e9665.chunk.css.map",
-    "static/js/2.48cb0aab.chunk.js.LICENSE.txt": "/static/js/2.48cb0aab.chunk.js.LICENSE.txt",
-    "static/media/coffee-pass-heading.6447c9cd.svg": "/static/media/coffee-pass-heading.6447c9cd.svg",
+    "static/css/main.f80c00ea.chunk.css.map": "/static/css/main.f80c00ea.chunk.css.map",
+    "static/js/2.237a3f7d.chunk.js.LICENSE.txt": "/static/js/2.237a3f7d.chunk.js.LICENSE.txt",
+    "static/media/coffee-pass-heading.8b7a8c59.svg": "/static/media/coffee-pass-heading.8b7a8c59.svg",
     "static/media/congratulations.856e48e9.svg": "/static/media/congratulations.856e48e9.svg",
     "static/media/double_confirm.b1490b64.svg": "/static/media/double_confirm.b1490b64.svg",
-    "static/media/email.939f051e.svg": "/static/media/email.939f051e.svg",
+    "static/media/email.9ffd60e4.svg": "/static/media/email.9ffd60e4.svg",
     "static/media/facebook.9d898081.svg": "/static/media/facebook.9d898081.svg",
     "static/media/instagram.41c57ff5.svg": "/static/media/instagram.41c57ff5.svg",
     "static/media/lil_activities.169c1119.svg": "/static/media/lil_activities.169c1119.svg",
@@ -38,12 +38,12 @@
     "static/media/lil_restaurants.3233007b.svg": "/static/media/lil_restaurants.3233007b.svg",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
     "static/media/redeem_result.cbb32aea.svg": "/static/media/redeem_result.cbb32aea.svg",
-    "static/media/store-type-cafe.3ce8767f.svg": "/static/media/store-type-cafe.3ce8767f.svg"
+    "static/media/store-type-cafe.3aa41958.svg": "/static/media/store-type-cafe.3aa41958.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf4a7cce.js",
-    "static/js/2.48cb0aab.chunk.js",
-    "static/css/main.014e9665.chunk.css",
-    "static/js/main.bc1c7b03.chunk.js"
+    "static/js/runtime-main.c29960bd.js",
+    "static/js/2.237a3f7d.chunk.js",
+    "static/css/main.f80c00ea.chunk.css",
+    "static/js/main.b4295363.chunk.js"
   ]
 }
