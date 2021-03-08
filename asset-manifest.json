@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f80c00ea.chunk.css",
-    "main.js": "/static/js/main.b4295363.chunk.js",
-    "main.js.map": "/static/js/main.b4295363.chunk.js.map",
+    "main.js": "/static/js/main.14eda350.chunk.js",
+    "main.js.map": "/static/js/main.14eda350.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c29960bd.js",
     "runtime-main.js.map": "/static/js/runtime-main.c29960bd.js.map",
-    "static/js/2.237a3f7d.chunk.js": "/static/js/2.237a3f7d.chunk.js",
-    "static/js/2.237a3f7d.chunk.js.map": "/static/js/2.237a3f7d.chunk.js.map",
+    "static/js/2.b19d232a.chunk.js": "/static/js/2.b19d232a.chunk.js",
+    "static/js/2.b19d232a.chunk.js.map": "/static/js/2.b19d232a.chunk.js.map",
     "static/js/3.1be0d8dd.chunk.js": "/static/js/3.1be0d8dd.chunk.js",
     "static/js/3.1be0d8dd.chunk.js.map": "/static/js/3.1be0d8dd.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.f80c00ea.chunk.css.map": "/static/css/main.f80c00ea.chunk.css.map",
-    "static/js/2.237a3f7d.chunk.js.LICENSE.txt": "/static/js/2.237a3f7d.chunk.js.LICENSE.txt",
+    "static/js/2.b19d232a.chunk.js.LICENSE.txt": "/static/js/2.b19d232a.chunk.js.LICENSE.txt",
     "static/media/coffee-pass-heading.8b7a8c59.svg": "/static/media/coffee-pass-heading.8b7a8c59.svg",
     "static/media/congratulations.856e48e9.svg": "/static/media/congratulations.856e48e9.svg",
     "static/media/double_confirm.b1490b64.svg": "/static/media/double_confirm.b1490b64.svg",
@@ -32,7 +32,6 @@
     "static/media/lil_fun.e9c8f355.svg": "/static/media/lil_fun.e9c8f355.svg",
     "static/media/lil_health.f02475b4.svg": "/static/media/lil_health.f02475b4.svg",
     "static/media/lil_hotdeals.247033b6.svg": "/static/media/lil_hotdeals.247033b6.svg",
-    "static/media/lil_in_store_deal.d37db53a.svg": "/static/media/lil_in_store_deal.d37db53a.svg",
     "static/media/lil_logo_lovinlocal.f39c1444.svg": "/static/media/lil_logo_lovinlocal.f39c1444.svg",
     "static/media/lil_nightlife.146b6e4a.svg": "/static/media/lil_nightlife.146b6e4a.svg",
     "static/media/lil_restaurants.3233007b.svg": "/static/media/lil_restaurants.3233007b.svg",
@@ -42,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c29960bd.js",
-    "static/js/2.237a3f7d.chunk.js",
+    "static/js/2.b19d232a.chunk.js",
     "static/css/main.f80c00ea.chunk.css",
-    "static/js/main.b4295363.chunk.js"
+    "static/js/main.14eda350.chunk.js"
   ]
 }
