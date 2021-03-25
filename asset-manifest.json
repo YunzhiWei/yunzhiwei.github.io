@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1eb1dfbf.chunk.css",
-    "main.js": "/static/js/main.cec54150.chunk.js",
-    "main.js.map": "/static/js/main.cec54150.chunk.js.map",
+    "main.js": "/static/js/main.8aa6709b.chunk.js",
+    "main.js.map": "/static/js/main.8aa6709b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc6f7b0d.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc6f7b0d.js.map",
     "static/js/2.efd85d0d.chunk.js": "/static/js/2.efd85d0d.chunk.js",
@@ -27,16 +27,16 @@
     "static/css/main.1eb1dfbf.chunk.css.map": "/static/css/main.1eb1dfbf.chunk.css.map",
     "static/js/2.efd85d0d.chunk.js.LICENSE.txt": "/static/js/2.efd85d0d.chunk.js.LICENSE.txt",
     "static/media/avatar_lovinlocal_as_heart.682645c9.svg": "/static/media/avatar_lovinlocal_as_heart.682645c9.svg",
-    "static/media/category_activities_as_bowling.169c1119.svg": "/static/media/category_activities_as_bowling.169c1119.svg",
+    "static/media/category_activities_as_bowling.4c4a4afb.svg": "/static/media/category_activities_as_bowling.4c4a4afb.svg",
     "static/media/category_alcohol_as_bottle.184a8344.svg": "/static/media/category_alcohol_as_bottle.184a8344.svg",
     "static/media/category_automobiles_as_car.3b916c3d.svg": "/static/media/category_automobiles_as_car.3b916c3d.svg",
     "static/media/category_beauty_as_scissors.2beadbd2.svg": "/static/media/category_beauty_as_scissors.2beadbd2.svg",
     "static/media/category_coffeepass_as_coffe_on_pass.svg": "/static/media/category_coffeepass_as_coffe_on_pass.e8c1e224.svg",
     "static/media/category_florists_as_flower.8d148629.svg": "/static/media/category_florists_as_flower.8d148629.svg",
-    "static/media/category_food_as_hamburger.fb8c1d03.svg": "/static/media/category_food_as_hamburger.fb8c1d03.svg",
+    "static/media/category_food_as_hamburger.5cd4460d.svg": "/static/media/category_food_as_hamburger.5cd4460d.svg",
     "static/media/category_fun_as_popcorn_glasses.e9c8f355.svg": "/static/media/category_fun_as_popcorn_glasses.e9c8f355.svg",
     "static/media/category_health_as_heart_beat.f02475b4.svg": "/static/media/category_health_as_heart_beat.f02475b4.svg",
-    "static/media/category_hotdeals_as_stopwatch.247033b6.svg": "/static/media/category_hotdeals_as_stopwatch.247033b6.svg",
+    "static/media/category_hotdeals_as_stopwatch.28a20363.svg": "/static/media/category_hotdeals_as_stopwatch.28a20363.svg",
     "static/media/category_nightlife_as_wine.146b6e4a.svg": "/static/media/category_nightlife_as_wine.146b6e4a.svg",
     "static/media/category_restaurants_as_food.3233007b.svg": "/static/media/category_restaurants_as_food.3233007b.svg",
     "static/media/coffee_in_red_cup.8966030b.svg": "/static/media/coffee_in_red_cup.8966030b.svg",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.dc6f7b0d.js",
     "static/js/2.efd85d0d.chunk.js",
     "static/css/main.1eb1dfbf.chunk.css",
-    "static/js/main.cec54150.chunk.js"
+    "static/js/main.8aa6709b.chunk.js"
   ]
 }
