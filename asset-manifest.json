@@ -5,12 +5,12 @@
     "static/js/1.0d9fbb5d.chunk.js": "/static/js/1.0d9fbb5d.chunk.js",
     "static/js/1.0d9fbb5d.chunk.js.map": "/static/js/1.0d9fbb5d.chunk.js.map",
     "main.css": "/static/css/main.1eb1dfbf.chunk.css",
-    "main.js": "/static/js/main.3df40f8e.chunk.js",
-    "main.js.map": "/static/js/main.3df40f8e.chunk.js.map",
+    "main.js": "/static/js/main.f37d7222.chunk.js",
+    "main.js.map": "/static/js/main.f37d7222.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4fe5e2ec.js",
     "runtime-main.js.map": "/static/js/runtime-main.4fe5e2ec.js.map",
-    "static/js/4.b1367863.chunk.js": "/static/js/4.b1367863.chunk.js",
-    "static/js/4.b1367863.chunk.js.map": "/static/js/4.b1367863.chunk.js.map",
+    "static/js/4.e084d899.chunk.js": "/static/js/4.e084d899.chunk.js",
+    "static/js/4.e084d899.chunk.js.map": "/static/js/4.e084d899.chunk.js.map",
     "static/js/5.4df2f27e.chunk.js": "/static/js/5.4df2f27e.chunk.js",
     "static/js/5.4df2f27e.chunk.js.map": "/static/js/5.4df2f27e.chunk.js.map",
     "static/js/6.ba88feb4.chunk.js": "/static/js/6.ba88feb4.chunk.js",
@@ -27,7 +27,7 @@
     "static/js/11.16636c4b.chunk.js.map": "/static/js/11.16636c4b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.1eb1dfbf.chunk.css.map": "/static/css/main.1eb1dfbf.chunk.css.map",
-    "static/js/4.b1367863.chunk.js.LICENSE.txt": "/static/js/4.b1367863.chunk.js.LICENSE.txt",
+    "static/js/4.e084d899.chunk.js.LICENSE.txt": "/static/js/4.e084d899.chunk.js.LICENSE.txt",
     "static/media/avatar_lovinlocal_as_heart.682645c9.svg": "/static/media/avatar_lovinlocal_as_heart.682645c9.svg",
     "static/media/category_activities_as_bowling.4c4a4afb.svg": "/static/media/category_activities_as_bowling.4c4a4afb.svg",
     "static/media/category_alcohol_as_bottle.184a8344.svg": "/static/media/category_alcohol_as_bottle.184a8344.svg",
@@ -53,16 +53,13 @@
     "static/media/phone_in_left_hand_with_coffee_free_tag.943ce999.svg": "/static/media/phone_in_left_hand_with_coffee_free_tag.943ce999.svg",
     "static/media/phone_in_right_hand_wit_ticket_4_double_confirm.b1490b64.svg": "/static/media/phone_in_right_hand_wit_ticket_4_double_confirm.b1490b64.svg",
     "static/media/phone_in_right_hand_with_done_4_redeem_result.cbb32aea.svg": "/static/media/phone_in_right_hand_with_done_4_redeem_result.cbb32aea.svg",
-    "static/media/search_activities_as_bowling.132acab1.svg": "/static/media/search_activities_as_bowling.132acab1.svg",
-    "static/media/search_food_as_hamburger.ec6db15f.svg": "/static/media/search_food_as_hamburger.ec6db15f.svg",
-    "static/media/search_fun_as_popcorn_glasses.c0e4ff77.svg": "/static/media/search_fun_as_popcorn_glasses.c0e4ff77.svg",
     "static/media/secret_hand_brand_badge.b3e1df8b.svg": "/static/media/secret_hand_brand_badge.b3e1df8b.svg",
     "static/media/secret_lock.687cd8c1.svg": "/static/media/secret_lock.687cd8c1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fe5e2ec.js",
-    "static/js/4.b1367863.chunk.js",
+    "static/js/4.e084d899.chunk.js",
     "static/css/main.1eb1dfbf.chunk.css",
-    "static/js/main.3df40f8e.chunk.js"
+    "static/js/main.f37d7222.chunk.js"
   ]
 }
